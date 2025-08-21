@@ -12,7 +12,7 @@ I am a passionate Full Stack Developer with expertise in the MERN stack (MongoDB
 
 I have a deep interest in backend development, specifically in designing and implementing robust RESTful APIs. My experience extends to database management with PostgreSQL and MongoDB, ensuring data integrity and efficient queries.
 
-Beyond full-stack development, I have a solid understanding of Data Structures and Algorithms (DSA), which I apply to solve complex problems. I've solved 100+ DSA questions, primarily using C++, and I also have a foundational knowledge of Python and Java.
+Beyond full-stack development, I have a decent understanding of Data Structures and Algorithms (DSA), which I apply to solve complex problems primarily using C++ and I also have a foundational knowledge of Python and Java.
 
 I'm constantly working on personal projects to hone my skills and contribute to the developer community. I'm excited to bring my skills to a professional team and build innovative solutions.
 
