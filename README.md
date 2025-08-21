@@ -8,13 +8,11 @@
 
 ### 💻 About Me
 
-I’m a **Full Stack Developer** and **Software Engineer** passionate about building scalable, modern web applications.  
-My journey has been a mix of frontend creativity with **React & Tailwind CSS**, and backend power with **Node.js, Express, and MongoDB**.  
+I am a passionate Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js) and a strong foundation in building scalable, secure, and performant web applications. I'm always eager to learn and explore new technologies to solve complex problems and create meaningful user experiences.
 
-⚡ I enjoy solving problems with **C++ (DSA on LeetCode/GFG)** and designing full-stack projects that bring real ideas to life.  
-🚀 Currently focusing on creating production-ready MERN applications and mastering system design concepts.  
+I have a deep interest in backend development, specifically in designing and implementing robust RESTful APIs. My experience extends to database management with PostgreSQL and MongoDB, ensuring data integrity and efficient queries.
 
-
+I'm constantly working on personal projects to hone my skills and contribute to the developer community. I'm excited to bring my skills to a professional team and build innovative solutions.
 ---
 
 ## 🛠 Tech Stack  
