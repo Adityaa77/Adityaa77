@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 **Frontend:** HTML • CSS • JavaScript • React • Tailwind CSS  
 **Backend:** Node.js • Express.js  
-**Database:** MongoDB (exploring PostgreSQL too)  
+**Database:** MongoDB • PostgreSQL
 **Other:** Git/GitHub • C++ • DSA  
 
 ---
