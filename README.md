@@ -7,10 +7,13 @@
 ---
 
 ### 💻 About Me
-- 🚀 Passionate about **Full-Stack Development (MERN)**  
-- 🧩 Strong foundation in **Data Structures & Algorithms (C++/LeetCode/GFG)**  
-- 🎯 Currently learning **Node.js & backend development**  
-- 🌱 Exploring modern web practices: **Tailwind CSS, React, REST APIs**  
+
+I’m a **Full Stack Developer** and **Software Engineer** passionate about building scalable, modern web applications.  
+My journey has been a mix of frontend creativity with **React & Tailwind CSS**, and backend power with **Node.js, Express, and MongoDB**.  
+
+⚡ I enjoy solving problems with **C++ (DSA on LeetCode/GFG)** and designing full-stack projects that bring real ideas to life.  
+🚀 Currently focusing on creating production-ready MERN applications and mastering system design concepts.  
+
 
 ---
 
