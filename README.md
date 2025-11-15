@@ -10,7 +10,7 @@
 
 I am a passionate Full Stack Developer with expertise in MongoDB, Express.js, React and Node.js and a strong foundation in building scalable, secure, and performant web applications. I'm always eager to learn and explore new technologies to solve complex problems and create meaningful user experiences.
 
-I have a deep interest in backend development, specifically in designing and implementing robust RESTful APIs. My experience extends to database management with PostgreSQL and MongoDB, ensuring data integrity and efficient queries.
+I have a deep interest in backend development, specifically in designing and implementing robust RESTful APIs. My experience extends to database management with MongoDB, ensuring data integrity and efficient queries.
 
 Beyond full-stack development, I have a decent understanding of Data Structures and Algorithms (DSA), which I apply to solve complex problems primarily using C++ and I also have a foundational knowledge of Python and Java.
 
