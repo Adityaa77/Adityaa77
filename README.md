@@ -31,5 +31,5 @@ I'm constantly working on personal projects to hone my skills and contribute to 
 
 ### 📫 Reach Me
 - ✉️ Email: singhaditya0020@gmail.com
-- 💼 LinkedIn: 
+- 💼 LinkedIn: https://www.linkedin.com/in/aditya-singh-165a38259
 
